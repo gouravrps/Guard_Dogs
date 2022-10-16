@@ -376,9 +376,8 @@ h3{
     padding-bottom: 50px;
     
 }
-
 .akita{
-    background-image: url(image/dog1-\ akita.jpg);
+    background-image: url(image/dog1-akita.jpg);
     color: aliceblue;
 }
 
@@ -391,7 +390,7 @@ h3{
     color: aliceblue;
 }
 .canecorso{
-    background-image: url(image/dog4-Cane\ Corso.jpg);
+    background-image: url(image/dog4-CaneCorso.jpg);
     color: aliceblue;
 }
 .gshepherd{
